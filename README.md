@@ -58,3 +58,5 @@ the program to run without error.
 ## Contributing
 
 	Built with Sayan Chatterjee for the Satellite Class and Marcell Gilliam for the Genetic Algorithm Class
+	Python for Control Purposes by Prof. Roberto Bucher was used to help construct the Satellite Class
+	Special thanks to Dr. Richard Stansbury for teaching and mentoring in regards to this project.
